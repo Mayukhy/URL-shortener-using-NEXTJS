@@ -1,33 +1,25 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# SS
 
-First, run the development server:
+![Url sorter - Google Chrome 2_8_2024 10_02_20 PM](https://github.com/Mayukhy/anchors.in_assignment/assets/107027766/556b7651-41da-43b7-b257-4ba325a4309f)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Url sorter - Google Chrome 2_8_2024 10_02_28 PM](https://github.com/Mayukhy/anchors.in_assignment/assets/107027766/38ba70c4-a332-4408-959d-be011630ad84)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Url sorter - Google Chrome 2_8_2024 10_02_33 PM](https://github.com/Mayukhy/anchors.in_assignment/assets/107027766/8441203d-8abe-47b6-bc9d-54175e190008)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Url sorter - Google Chrome 2_8_2024 10_02_46 PM](https://github.com/Mayukhy/anchors.in_assignment/assets/107027766/759f9c8f-8481-4d4e-89d3-7c99f86458a9)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Url sorter - Google Chrome 2_8_2024 10_02_57 PM](https://github.com/Mayukhy/anchors.in_assignment/assets/107027766/9bba5a7a-a359-4b11-a366-34708ef00e9b)
 
-## Learn More
+![Url sorter - Google Chrome 2_8_2024 10_02_50 PM](https://github.com/Mayukhy/anchors.in_assignment/assets/107027766/f2c2ac67-8540-4391-9b32-62e5730f2dba)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+
+
+
 
 ## Deploy on Vercel
 
