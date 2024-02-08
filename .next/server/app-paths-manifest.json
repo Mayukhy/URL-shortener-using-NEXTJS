@@ -1,7 +1,13 @@
 {
+  "/not-found": "app/not-found.js",
+  "/api/user/[mail]/route": "app/api/user/[mail]/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/(site)/page": "app/(site)/page.js",
-  "/feed/Dashbord/page": "app/feed/Dashbord/page.js",
+  "/api/url/route": "app/api/url/route.js",
+  "/api/user/route": "app/api/user/route.js",
   "/feed/page": "app/feed/page.js",
+  "/feed/Profile/page": "app/feed/Profile/page.js",
   "/feed/Settings/page": "app/feed/Settings/page.js",
-  "/feed/Profile/page": "app/feed/Profile/page.js"
+  "/feed/Dashbord/page": "app/feed/Dashbord/page.js"
 }

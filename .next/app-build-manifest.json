@@ -6,12 +6,6 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/(site)/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/(site)/page.css",
-      "static/chunks/app/(site)/page.js"
-    ],
     "/feed/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -22,10 +16,11 @@
       "static/chunks/main-app.js",
       "static/chunks/app/feed/layout.js"
     ],
-    "/feed/Dashbord/page": [
+    "/(site)/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/feed/Dashbord/page.js"
+      "static/css/app/(site)/page.css",
+      "static/chunks/app/(site)/page.js"
     ],
     "/feed/Profile/page": [
       "static/chunks/webpack.js",
@@ -36,6 +31,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/feed/Settings/page.js"
+    ],
+    "/feed/Dashbord/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/feed/Dashbord/page.js"
+    ],
+    "/not-found": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/not-found.js"
     ]
   }
 }
