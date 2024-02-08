@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Video demonstration
+https://www.loom.com/share/46fb40e4ff8d49128f16dc029b5e9251
+
 # SS
 
 ![Url sorter - Google Chrome 2_8_2024 10_02_20 PM](https://github.com/Mayukhy/anchors.in_assignment/assets/107027766/556b7651-41da-43b7-b257-4ba325a4309f)
